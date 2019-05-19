@@ -1,0 +1,41 @@
+body {
+    background-image: url("../image/fundo.png");
+
+}
+#logo {
+    border-radius: 50%;
+    border: solid 2px black;
+    margin: 1em auto;
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
+
+header nav ul li div {
+    color: white;
+    background-color: rgb(56, 56, 56);
+    text-align: center;
+    padding: 10px 0;
+    font-size: 18px;
+}
+
+header nav ul {
+    padding: 0;
+}
+
+#baner img {
+    width: 100%;
+}
+
+#produtos img {
+    width: 100%;
+}
+
+footer .container {
+    background-color: red;
+    border-radius: 20px 20px 0 0;
+    height: 60px;
+    margin-top: 20px;
+}
